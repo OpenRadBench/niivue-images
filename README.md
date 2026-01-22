@@ -14,3 +14,4 @@ These are sample NIfTI images designed for evaluating viewing tools like [NiiVue
  - `MR_Gd` shows a [Skull-stripped Contrast-Enhanced brain MRI](https://figshare.com/articles/dataset/Skull-stripped_Contrast-Enhanced_MRI_Datasets/7472168).
  - `spm152` and `mni152` are derived from the [ICBM 152 Nonlinear atlases version 2009](https://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009). The spm152 is average brain size, while the mni152 matches the size of the [MNI ICBM template](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6050588/).
  - `visiblehuman` is from the [visible human project](https://www.nlm.nih.gov/research/visible/visible_human.html)
+ - `DICOMs` is from the [rubomedical](https://www.rubomedical.com/dicom_files/)
